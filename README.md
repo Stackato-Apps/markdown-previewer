@@ -11,6 +11,15 @@ Markdown Previewer provides Markdown (.md) and RDoc (.rdoc) online preview witho
 You can edit the previewing file with your favorite text editors and Previewer reloads &amp; re-rendering the file automatically.
 
 
+Deploying to Stackato
+---------------------
+Based on [this post](http://blog.cloudfoundry.gr.jp/2015/07/cf100apps-032-MarkdownPreviewer.html) from the Cloud Foundry 100 Day Challenge.
+
+```
+stackato push -n
+```
+
+
 Tested Web Browsers
 -------------------
 
