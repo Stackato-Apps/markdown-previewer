@@ -1,4 +1,4 @@
 applications:
 - name: markdown-previewer
   buildpack: https://github.com/hpcloud/staticfile-buildpack.git#custom-404
-  mem: 32M
+  memory: 32M
