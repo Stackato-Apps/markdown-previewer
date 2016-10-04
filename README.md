@@ -16,7 +16,7 @@ Deploying to HPE Helion Stackato
 Based on [this post](http://blog.cloudfoundry.gr.jp/2015/07/cf100apps-032-MarkdownPreviewer.html) from the Cloud Foundry 100 Day Challenge.
 
 ```
-stackato push -n
+cf push
 ```
 
 
